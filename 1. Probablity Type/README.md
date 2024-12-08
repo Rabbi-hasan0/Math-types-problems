@@ -3,9 +3,9 @@
 ### Index Of Problem
 | Si No. | Problem Name               | Difficulty | Judge Name    | Editorials                                                                 |
 |--------|----------------------------|------------|---------------|----------------------------------------------------------------------------|
-| 1      | Sakurako's Box             | 1400*      | Codeforces    | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-01) |
-| 2      | Red Apple, Green Apple     | Medium*    | ICPC          | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-02) |
-| 3      |                            |            |               | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-03) |                                                                           
+| 1      | [Sakurako's Box](https://codeforces.com/contest/2008/problem/F) | 1400*      | Codeforces    | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-01) |
+| 2      | [Red Apple, Green Apple](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/problems/D) | Medium*    | ICPC          | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-02) |
+| 3      | [Problem 03](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-03) |            |               | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-03) |                                                                           
 | 4      |                            |            |               |                                                                            |
 | 5      |                            |            |               |                                                                            |
 | 6      |                            |            |               |                                                                            |
