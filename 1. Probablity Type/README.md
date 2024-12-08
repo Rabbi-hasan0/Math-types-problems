@@ -3,7 +3,7 @@
 
 solution:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rabbi-hasan0/Math-types-problems/main/1.%20Probablity%20Type/img/expected_value1.png" width="400" height="400">
+  <img src="https://raw.githubusercontent.com/Rabbi-hasan0/Math-types-problems/main/1.%20Probablity%20Type/img/expected_value1.png" width="500" height="500">
 </div>
 <p align="right">
   <a href="#top">
