@@ -2,8 +2,6 @@
 Explainnation include to be readme file of this folder 
 */
 
-
-
 #include <bits/stdc++.h>
 #define print(x) cout << x << '\n'
 #define int long long
