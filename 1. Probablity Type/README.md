@@ -2,8 +2,11 @@
   
   ### Index Of Problem
   --------------------------------------------------------------------------------
+  
   |  Si No.   |         Problem Name         |  Difficulty  |     Judge Name     |
+  
   --------------------------------------------------------------------------------
+  
   |    1      |         Sakurako's Box       |     1400*    |     Codeforces     |
   |    2      |    Red Apple, Green Apple    |    Medium*   |        ICPC        |
   |    3      |                              |              |                    |
