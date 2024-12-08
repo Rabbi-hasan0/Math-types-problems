@@ -8,18 +8,15 @@ solution:
   <img src="https://raw.githubusercontent.com/Rabbi-hasan0/Math-types-problems/main/1.%20Probablity%20Type/img/expected_value1.png" width="500" height="500">
 </div>
 Code:
-```c++
-/*
-Explainnation include to be readme file of this folder 
-*/
 
+```c++
 #include <bits/stdc++.h>
 #define print(x) cout << x << '\n'
 #define int long long
 using namespace std;
 const int mod = 1e9 + 7;
 
-int power(int n, int k, int mod) { // n^k % mod --> mod <= 10^9 [O(log(k))];
+int power(int n, int k, int mod) {
   int ans = 1 % mod; 
   n %= mod; 
   if (n < 0) n += mod;
@@ -32,7 +29,6 @@ int power(int n, int k, int mod) { // n^k % mod --> mod <= 10^9 [O(log(k))];
   }
   return ans;
 }
-
 int tot(int n) {
     return n * (n - 1);
 }
