@@ -1,4 +1,23 @@
 <div>
+  ### Index Of Problem
+  --------------------------------------------------------------------------------
+  |  Si No.   |         Problem Name         |  Difficulty  |     Judge Name     |
+  --------------------------------------------------------------------------------
+  |    1      |         Sakurako's Box       |     1400*    |     Codeforces     |
+  |    2      |    Red Apple, Green Apple    |    Medium*   |        ICPC        |
+  |    3      |                              |              |                    |
+  |    4      |                              |              |                    |
+  |    5      |                              |              |                    |
+  |    6      |                              |              |                    |
+  |    7      |                              |              |                    |
+  |    8      |                              |              |                    |
+  |    9      |                              |              |                    |
+  |    10     |                              |              |                    |
+  --------------------------------------------------------------------------------                                                                             
+</div>            
+
+
+<div>
   
 ### Problem: 01
 ```Sakurako's Box: Sakurako has a box with n balls. Each ball has it's value. She wants to bet with her friend that if the friend randomly picks two balls from the box (it could be two distinct balls, but they may have the same value), the product of their values will be the same as the number that Sakurako guessed.```
