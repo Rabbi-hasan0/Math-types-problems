@@ -69,7 +69,7 @@ int32_t main() {
 
 solution:
 <div align="center">
-  <img src="(https://github.com/Rabbi-hasan0/Math-types-problems/blob/main/1.%20Probablity%20Type/img/ev2.png)" width="500" height="500">
+  <img src="https://github.com/Rabbi-hasan0/Math-types-problems/blob/main/1.%20Probablity%20Type/img/ev2.png" width="500" height="500">
 </div>
 Code:
 
