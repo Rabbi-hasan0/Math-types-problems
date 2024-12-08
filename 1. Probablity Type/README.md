@@ -4,7 +4,7 @@
 | Si No. | Problem Name               | Difficulty | Judge Name    | Editorials                                                                 |
 |--------|----------------------------|------------|---------------|----------------------------------------------------------------------------|
 | 1      | Sakurako's Box             | 1400*      | Codeforces    | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-01) |
-| 2      | Red Apple, Green Apple     | Medium*    | ICPC          | [Link](https://example.com/2)                                             |
+| 2      | Red Apple, Green Apple     | Medium*    | ICPC          | [Link](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-02) |
 | 3      |                            |            |               |                                                                            |
 | 4      |                            |            |               |                                                                            |
 | 5      |                            |            |               |                                                                            |
