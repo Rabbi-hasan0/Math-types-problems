@@ -1,19 +1,19 @@
 <div>
   
 ### Index Of Problem
-| Si No. | Problem Name               | Difficulty | Judge Name    |
-|--------|----------------------------|------------|---------------|
-| 1      | Sakurako's Box             | 1400*      | Codeforces    |
-| 2      | Red Apple, Green Apple     | Medium*    | ICPC          |
-| 3      |                            |            |               |
-| 4      |                            |            |               |
-| 5      |                            |            |               |
-| 6      |                            |            |               |
-| 7      |                            |            |               |
-| 8      |                            |            |               |
-| 9      |                            |            |               |
-| 10     |                            |            |               |
-   
+| Si No. | Problem Name               | Difficulty | Judge Name    | Editorials                     |
+|--------|----------------------------|------------|---------------|--------------------------------|
+| 1      | Sakurako's Box             | 1400*      | Codeforces    | [Link]([https://example.com/1](https://github.com/Rabbi-hasan0/Math-types-problems/tree/main/1.%20Probablity%20Type#problem-01)) |
+| 2      | Red Apple, Green Apple     | Medium*    | ICPC          | [Link](https://example.com/2) |
+| 3      |                            |            |               |                                |
+| 4      |                            |            |               |                                |
+| 5      |                            |            |               |                                |
+| 6      |                            |            |               |                                |
+| 7      |                            |            |               |                                |
+| 8      |                            |            |               |                                |
+| 9      |                            |            |               |                                |
+| 10     |                            |            |               |                                |
+  
   
 </div>            
 
